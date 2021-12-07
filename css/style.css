@@ -1,6 +1,8 @@
 body {
- width: 960px;   
+ height: 100vh;  
 }
 h1 {
     color: red;   
+   text-align: center;
+ margin-top: 50%;
 }
